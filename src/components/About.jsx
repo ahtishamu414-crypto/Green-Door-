@@ -21,10 +21,9 @@ export default function About() {
               a wall of nine round mirrors give it a little mischief.
             </p>
             <p>
-              Plants crowd the corners, oak chairs gather around marble-top
-              tables, and paper lanterns keep the light warm well past
-              midnight — we're open until 12:30 AM, most nights later than
-              you'll need us.
+              Plants crowd the corners, oak chairs gather around oak-top
+              tables, and paper lanterns keep the light warm — we're open
+              until 12:30 AM.
             </p>
           </div>
         </div>

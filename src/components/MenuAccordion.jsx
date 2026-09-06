@@ -108,11 +108,11 @@ export default function MenuAccordion() {
               {group.group}
             </h3>
             <div className="rounded-2xl bg-paper px-5 shadow-sm shadow-charcoal/5 ring-1 ring-charcoal/5">
-              {group.categories.map((category, ci) => (
+              {group.categories.map((category) => (
                 <CategoryPanel
                   key={category.name}
                   category={category}
-                  defaultOpen={gi === 0 && ci === 0}
+                  defaultOpen
                 />
               ))}
             </div>

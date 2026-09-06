@@ -22,7 +22,7 @@ export default function Hero() {
           Coffee Cafe &amp; Patisserie
         </h1>
         <p className="mx-auto mt-5 max-w-md font-serif text-base italic text-paper/90 sm:text-lg">
-          Coffee, pastry, and a green door in Johar Town.
+          Specialty coffee and fresh patisserie, open till midnight in Johar Town.
         </p>
 
         <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
